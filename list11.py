@@ -10,3 +10,14 @@ students = ["Tithi", 21, 79.9, "Dhaka"]
 print(students)
 students[3] = "Moghbazar"
 print(students)
+
+## List Slicing
+print(marks[1:4]) #from index 1 to index 3
+print(marks[:3]) #from starting to index 2
+print(marks[2:]) #from index 2 to end
+print(marks[-4:-1]) #from index -4 to index -2
+print(marks[-3:]) #from index -3 to end
+print(marks[:-2]) #from starting to index -3
+
+##length of LIST
+print(len(students))
