@@ -4,14 +4,16 @@ dict = {
     "name" : "tithi",
     "age" : 30,
     "info" : ("tithi", 21, "SEU"),
+    "fruits" : ["mango", "banana", "orange"],
     "is_valid" : True,
+    12.99 : "price"
 }
 
 print(dict)
 print(dict["age"]) #for diffferent values
 print(dict["is_valid"])
 
-#another
+#another: will overwrite the previous value of "name"
 
 dict["name"] = "Shammin"
 dict["surname"] = "Akter"

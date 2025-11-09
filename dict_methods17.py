@@ -24,7 +24,7 @@ print(list(student.items()))"""
 
 
 #4. use method.get()
-"""print(student.get(key))
+"""print(student.get("name"))
 print(student.get(name4))"""
 
 #5. use method.update()
