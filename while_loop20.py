@@ -19,6 +19,7 @@ fruits = ["apple", "orange", "grape", "avocado", "strawberry"]
 
 idx = 0
 while idx < len(nums):
+    print("Index:", idx)
     print(nums[idx])
     idx += 1
 
@@ -56,7 +57,7 @@ while i <= 8:
     if(i == 4):
         i +=1
         continue
-    print(i)
+    print("will continue",i)
     i += 1"""
 
 #For odd number

@@ -37,7 +37,7 @@ for i in seq :
 for i in range(2, 7) :
     print(i)
 
-for i in range(2, 15, 3) : #stat, stop, step
+for i in range(2, 15, 3) : #start, stop, step
     print(i)"""
 
 #practice - times table
@@ -47,9 +47,9 @@ for i in range(1,11) :
     print (n * i)"""
 
 #Pass statement
-"""for i in range(5) :
+for i in range(5) :
     pass
-print("Hudai")"""
+print("Hudai")
 
 #factorial
 """n = 5

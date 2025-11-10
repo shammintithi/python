@@ -1,7 +1,7 @@
 """1. 
 f = open("demo.txt" , "r")
 #data = f.read() #read entire file
-#data = f.read(5) #read some words
+#data = f.read(5) #read some characters
 
 data = f.readline() #read one line at a time
 print(data)
