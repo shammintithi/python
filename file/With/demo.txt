@@ -1,3 +1,1 @@
-with open("filename", "r") as file:
-
-dont need use file.close()
+If you change the 2nd code, so this note will be removed. 
