@@ -22,3 +22,4 @@ s = Student("Tithi", 85)
 print(s.get_marks())   # accessing private data safely
 s.set_marks(92)        # updating private data safely
 print(s.get_marks())
+ 
