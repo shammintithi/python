@@ -16,3 +16,4 @@ print(s1.marks)
 print(s1.Name_of_University )
 s2 = Student("shammin", 90)
 print(s2.name, s2.marks, s2.Name_of_University)
+ 
